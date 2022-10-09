@@ -8,16 +8,7 @@ body{
 *{
 	margin: 0px; padding: 0px; font-family: 'Montserrat', sans-serif;
 }
-.head{
-	background-color: #faeded;
-	padding: 10px;
-	color: #030303;
-	text-align: left;
-	text-align: center;
-	border: 5px solid #088aaa;
-	width: 65%;
-	margin: auto;
-}
+
 .main{
 	background-color: white;
 	height: auto;
